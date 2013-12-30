@@ -22,6 +22,7 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
+gem 'haml'
 group :development do
 	gem 'better_errors'
 	gem 'quiet_assets'
